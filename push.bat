@@ -1,4 +1,6 @@
 @echo off
+git remote set-url origin https://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@github.com/ariannelizzz/CIT142G.git
+pause
 git add . 
 git commit -m "Auto Upload"
 git push
